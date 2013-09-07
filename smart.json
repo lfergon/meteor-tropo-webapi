@@ -3,7 +3,7 @@
   "description": "Tropo package for meteor",
   "homepage": "https://github.com/lfergon/meteor-tropo-webapi",
   "author": "Luis Fernandez <luis@tran.sl>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/lfergon/meteor-tropo-webapi.git",
   "packages":{
     "tropo-webapi":{}
