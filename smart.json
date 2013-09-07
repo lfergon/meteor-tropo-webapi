@@ -1,10 +1,11 @@
 {
-  "name": "tropo-webapi",
+  "name": "meteor-tropo-webapi",
   "description": "Tropo package for meteor",
-  "homepage": "https://github.com/lfergon/tropo-webapi",
+  "homepage": "https://github.com/lfergon/meteor-tropo-webapi",
   "author": "Luis Fernandez <luis@tran.sl>",
   "version": "0.0.1",
   "git": "https://github.com/lfergon/meteor-tropo-webapi.git",
-  "packages": {
-	}
+  "packages":{
+
+  }
 }
